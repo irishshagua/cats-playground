@@ -1,0 +1,7 @@
+# Intellij Shite
+.idea/
+*.iml
+
+# Build shite 
+target/
+
